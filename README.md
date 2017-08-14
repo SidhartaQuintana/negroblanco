@@ -1,2 +1,0 @@
-# negroblanco
-GitHub Pages
